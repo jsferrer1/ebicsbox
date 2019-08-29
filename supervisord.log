@@ -1,0 +1,20 @@
+2019-08-29 00:42:19,202 CRIT Supervisor running as root (no user in config file)
+2019-08-29 00:42:19,206 INFO supervisord started with pid 16
+2019-08-29 00:42:20,211 INFO spawned: 'puma' with pid 19
+2019-08-29 00:42:20,213 INFO spawned: 'worker' with pid 20
+2019-08-29 00:42:20,352 INFO exited: worker (exit status 15; not expected)
+2019-08-29 00:42:20,572 INFO exited: puma (exit status 1; not expected)
+2019-08-29 00:42:21,577 INFO spawned: 'puma' with pid 23
+2019-08-29 00:42:21,582 INFO spawned: 'worker' with pid 24
+2019-08-29 00:42:21,805 INFO exited: worker (exit status 15; not expected)
+2019-08-29 00:42:22,107 INFO exited: puma (exit status 1; not expected)
+2019-08-29 00:42:24,113 INFO spawned: 'puma' with pid 27
+2019-08-29 00:42:24,116 INFO spawned: 'worker' with pid 28
+2019-08-29 00:42:24,254 INFO exited: worker (exit status 15; not expected)
+2019-08-29 00:42:24,473 INFO exited: puma (exit status 1; not expected)
+2019-08-29 00:42:27,482 INFO spawned: 'puma' with pid 41
+2019-08-29 00:42:27,485 INFO spawned: 'worker' with pid 42
+2019-08-29 00:42:27,621 INFO exited: worker (exit status 15; not expected)
+2019-08-29 00:42:27,747 INFO gave up: worker entered FATAL state, too many start retries too quickly
+2019-08-29 00:42:27,842 INFO exited: puma (exit status 1; not expected)
+2019-08-29 00:42:28,845 INFO gave up: puma entered FATAL state, too many start retries too quickly
